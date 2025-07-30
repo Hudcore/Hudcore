@@ -1,6 +1,6 @@
 ## Seja bem-vindo!! 👋
 
-📝 Sobre mim: 
+📝 <b>Sobre mim:</b> 
 
 🎯 QA com experiência em várias áreas da qualidade <br>
 🧩 Criação de processos de testes <br>
@@ -10,3 +10,7 @@
 📈 Atuação forte em análise de logs e prevenção de erros <br>
 📎 Uso de ferramentas como Jira, YouTrack, Mantis <br>
 🧰 Ferramentas: Cypress, SQL Server, PostgreSQL, Oracle, Postman <br>
+
+
+📖  <b>Atualmente estudando...</b> <br>
+Estou me aprofundando no mundo da automação de testes com Cypress  :computer:⚙️
