@@ -1,16 +1,12 @@
-## Olá, tudo certo? 👋
+## Seja bem-vindo!! 👋
 
-<!--
+📝 Sobre mim: 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 QA com experiência em várias áreas da qualidade
+🧩 Criação de processos de testes 
+📚 Especialista em testes 
+🐞 Liderança de reuniões de Bug Review com foco em falhas, logs 
+🧪 Experiência sólida em testes manuais e exploratórios
+📈 Atuação forte em análise de logs e prevenção de erros
+📎 Uso de ferramentas como Jira, YouTrack, Mantis
+🧰 Ferramentas: Cypress, SQL Server, PostgreSQL, Oracle, Postman
